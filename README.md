@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **This is a signpost repo — the skills live in [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills).**
-> The 16 skills listed below are actively developed there, as one of 6 disciplines in a 103-skill bundle sharing one contract, seven benchmark-driven gates, and keyless data connectors. This repo carries no skill content — it exists so you can find the discipline; the bundle is where you install it.
+> The 16 skills listed below are actively developed there, as one of 7 disciplines in a 120-skill bundle sharing one contract, eight benchmark-driven gates, and keyless data connectors. This repo carries no skill content — it exists so you can find the discipline; the bundle is where you install it.
 
 16 skills covering the ECHO loop — **Explore → Craft → Host → Observe** — scored by the [ECHO benchmark](https://github.com/aaron-he-zhu/social-marketing-echo-benchmark), with `social-quality-auditor` as the SQS pre-publish gate (go/no-go). Organic-only: brand-owned channels, community engagement, social selling, dark-social — **no posting/engagement automation**; deliverables are ready-to-paste packages a human publishes. Entrypoint command: `/aaron-marketing:social`.
 
